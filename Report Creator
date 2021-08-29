@@ -1,0 +1,158 @@
+If ComboBox1 = "Chelsea McKnight" And ComboBox2 = "Day 1" Then Range("B32").Value = TextBox1.Value
+If ComboBox1 = "Chelsea McKnight" And ComboBox2 = "Day 1" Then Range("B33").Value = TextBox2.Value
+If ComboBox1 = "Chelsea McKnight" And ComboBox2 = "Day 1" Then Range("B34").Value = TextBox3.Value
+If ComboBox1 = "Chelsea McKnight" And ComboBox2 = "Day 1" Then Range("B35").Value = TextBox4.Value
+If ComboBox1 = "Chelsea McKnight" And ComboBox2 = "Day 1" Then Range("B36").Value = Application.WorksheetFunction.Average(score1, score2, score3, score4)
+
+If ComboBox1 = "Chelsea McKnight" And ComboBox2 = "Day 20" Then Range("C32").Value = TextBox1.Value
+If ComboBox1 = "Chelsea McKnight" And ComboBox2 = "Day 20" Then Range("C33").Value = TextBox2.Value
+If ComboBox1 = "Chelsea McKnight" And ComboBox2 = "Day 20" Then Range("C34").Value = TextBox3.Value
+If ComboBox1 = "Chelsea McKnight" And ComboBox2 = "Day 20" Then Range("C35").Value = TextBox4.Value
+If ComboBox1 = "Chelsea McKnight" And ComboBox2 = "Day 20" Then Range("C36").Value = Application.WorksheetFunction.Average(score1, score2, score3, score4)
+  
+If ComboBox1 = "Chelsea McKnight" And ComboBox2 = "Day 40" Then Range("D32").Value = TextBox1.Value
+If ComboBox1 = "Chelsea McKnight" And ComboBox2 = "Day 40" Then Range("D33").Value = TextBox2.Value
+If ComboBox1 = "Chelsea McKnight" And ComboBox2 = "Day 40" Then Range("D34").Value = TextBox3.Value
+If ComboBox1 = "Chelsea McKnight" And ComboBox2 = "Day 40" Then Range("D35").Value = TextBox4.Value
+If ComboBox1 = "Chelsea McKnight" And ComboBox2 = "Day 40" Then Range("D36").Value = Application.WorksheetFunction.Average(score1, score2, score3, score4)
+  
+If ComboBox1 = "Chelsea McKnight" And ComboBox2 = "Day 60" Then Range("E32").Value = TextBox1.Value
+If ComboBox1 = "Chelsea McKnight" And ComboBox2 = "Day 60" Then Range("E33").Value = TextBox2.Value
+If ComboBox1 = "Chelsea McKnight" And ComboBox2 = "Day 60" Then Range("E34").Value = TextBox3.Value
+If ComboBox1 = "Chelsea McKnight" And ComboBox2 = "Day 60" Then Range("E35").Value = TextBox4.Value
+If ComboBox1 = "Chelsea McKnight" And ComboBox2 = "Day 60" Then Range("E36").Value = Application.WorksheetFunction.Average(score1, score2, score3, score4)
+   
+If ComboBox1 = "Chelsea McKnight" And ComboBox2 = "Last Day" Then Range("F32").Value = TextBox1.Value
+If ComboBox1 = "Chelsea McKnight" And ComboBox2 = "Last Day" Then Range("F33").Value = TextBox2.Value
+If ComboBox1 = "Chelsea McKnight" And ComboBox2 = "Last Day" Then Range("F34").Value = TextBox3.Value
+If ComboBox1 = "Chelsea McKnight" And ComboBox2 = "Last Day" Then Range("F35").Value = TextBox4.Value
+If ComboBox1 = "Chelsea McKnight" And ComboBox2 = "Last Day" Then Range("F36").Value = Application.WorksheetFunction.Average(score1, score2, score3, score4)
+
+
+
+
+If ComboBox1 = "Erin Orgeron" And ComboBox2 = "Day 1" Then Range("B38").Value = TextBox1.Value
+If ComboBox1 = "Erin Orgeron" And ComboBox2 = "Day 1" Then Range("B39").Value = TextBox2.Value
+If ComboBox1 = "Erin Orgeron" And ComboBox2 = "Day 1" Then Range("B40").Value = TextBox3.Value
+If ComboBox1 = "Erin Orgeron" And ComboBox2 = "Day 1" Then Range("B41").Value = TextBox4.Value
+If ComboBox1 = "Erin Orgeron" And ComboBox2 = "Day 1" Then Range("B42").Value = Application.WorksheetFunction.Average(score1, score2, score3, score4)
+
+If ComboBox1 = "Erin Orgeron" And ComboBox2 = "Day 20" Then Range("C38").Value = TextBox1.Value
+If ComboBox1 = "Erin Orgeron" And ComboBox2 = "Day 20" Then Range("C39").Value = TextBox2.Value
+If ComboBox1 = "Erin Orgeron" And ComboBox2 = "Day 20" Then Range("C40").Value = TextBox3.Value
+If ComboBox1 = "Erin Orgeron" And ComboBox2 = "Day 20" Then Range("C41").Value = TextBox4.Value
+If ComboBox1 = "Erin Orgeron" And ComboBox2 = "Day 20" Then Range("C42").Value = Application.WorksheetFunction.Average(score1, score2, score3, score4)
+
+If ComboBox1 = "Erin Orgeron" And ComboBox2 = "Day 40" Then Range("D38").Value = TextBox1.Value
+If ComboBox1 = "Erin Orgeron" And ComboBox2 = "Day 40" Then Range("C39").Value = TextBox2.Value
+If ComboBox1 = "Erin Orgeron" And ComboBox2 = "Day 40" Then Range("D40").Value = TextBox3.Value
+If ComboBox1 = "Erin Orgeron" And ComboBox2 = "Day 40" Then Range("D41").Value = TextBox4.Value
+If ComboBox1 = "Erin Orgeron" And ComboBox2 = "Day 40" Then Range("D42").Value = Application.WorksheetFunction.Average(score1, score2, score3, score4)
+
+If ComboBox1 = "Erin Orgeron" And ComboBox2 = "Day 60" Then Range("E38").Value = TextBox1.Value
+If ComboBox1 = "Erin Orgeron" And ComboBox2 = "Day 60" Then Range("E39").Value = TextBox2.Value
+If ComboBox1 = "Erin Orgeron" And ComboBox2 = "Day 60" Then Range("E40").Value = TextBox3.Value
+If ComboBox1 = "Erin Orgeron" And ComboBox2 = "Day 60" Then Range("E41").Value = TextBox4.Value
+If ComboBox1 = "Erin Orgeron" And ComboBox2 = "Day 60" Then Range("E42").Value = Application.WorksheetFunction.Average(score1, score2, score3, score4)
+
+If ComboBox1 = "Erin Orgeron" And ComboBox2 = "Last Day" Then Range("F38").Value = TextBox1.Value
+If ComboBox1 = "Erin Orgeron" And ComboBox2 = "Last Day" Then Range("F39").Value = TextBox2.Value
+If ComboBox1 = "Erin Orgeron" And ComboBox2 = "Last Day" Then Range("F40").Value = TextBox3.Value
+If ComboBox1 = "Erin Orgeron" And ComboBox2 = "Last Day" Then Range("F41").Value = TextBox4.Value
+If ComboBox1 = "Erin Orgeron" And ComboBox2 = "Last Day" Then Range("F42").Value = Application.WorksheetFunction.Average(score1, score2, score3, score4)
+
+
+
+If ComboBox1 = "Alexis Phillips" And ComboBox2 = "Day 1" Then Range("B44").Value = TextBox1.Value
+If ComboBox1 = "Alexis Phillips" And ComboBox2 = "Day 1" Then Range("B45").Value = TextBox2.Value
+If ComboBox1 = "Alexis Phillips" And ComboBox2 = "Day 1" Then Range("B46").Value = TextBox3.Value
+If ComboBox1 = "Alexis Phillips" And ComboBox2 = "Day 1" Then Range("B47").Value = TextBox4.Value
+If ComboBox1 = "Alexis Phillips" And ComboBox2 = "Day 1" Then Range("B48").Value = Application.WorksheetFunction.Average(score1, score2, score3, score4)
+
+If ComboBox1 = "Alexis Phillips" And ComboBox2 = "Day 20" Then Range("C44").Value = TextBox1.Value
+If ComboBox1 = "Alexis Phillips" And ComboBox2 = "Day 20" Then Range("C45").Value = TextBox2.Value
+If ComboBox1 = "Alexis Phillips" And ComboBox2 = "Day 20" Then Range("C46").Value = TextBox3.Value
+If ComboBox1 = "Alexis Phillips" And ComboBox2 = "Day 20" Then Range("C47").Value = TextBox4.Value
+If ComboBox1 = "Alexis Phillips" And ComboBox2 = "Day 20" Then Range("C48").Value = Application.WorksheetFunction.Average(score1, score2, score3, score4)
+
+If ComboBox1 = "Alexis Phillips" And ComboBox2 = "Day 40" Then Range("D44").Value = TextBox1.Value
+If ComboBox1 = "Alexis Phillips" And ComboBox2 = "Day 40" Then Range("D45").Value = TextBox2.Value
+If ComboBox1 = "Alexis Phillips" And ComboBox2 = "Day 40" Then Range("D46").Value = TextBox3.Value
+If ComboBox1 = "Alexis Phillips" And ComboBox2 = "Day 40" Then Range("D47").Value = TextBox4.Value
+If ComboBox1 = "Alexis Phillips" And ComboBox2 = "Day 40" Then Range("D48").Value = Application.WorksheetFunction.Average(score1, score2, score3, score4)
+
+If ComboBox1 = "Alexis Phillips" And ComboBox2 = "Day 60" Then Range("E44").Value = TextBox1.Value
+If ComboBox1 = "Alexis Phillips" And ComboBox2 = "Day 60" Then Range("E45").Value = TextBox2.Value
+If ComboBox1 = "Alexis Phillips" And ComboBox2 = "Day 60" Then Range("E46").Value = TextBox3.Value
+If ComboBox1 = "Alexis Phillips" And ComboBox2 = "Day 60" Then Range("E47").Value = TextBox4.Value
+If ComboBox1 = "Alexis Phillips" And ComboBox2 = "Day 60" Then Range("E48").Value = Application.WorksheetFunction.Average(score1, score2, score3, score4)
+
+If ComboBox1 = "Alexis Phillips" And ComboBox2 = "Last Day" Then Range("F44").Value = TextBox1.Value
+If ComboBox1 = "Alexis Phillips" And ComboBox2 = "Last Day" Then Range("F45").Value = TextBox2.Value
+If ComboBox1 = "Alexis Phillips" And ComboBox2 = "Last Day" Then Range("F46").Value = TextBox3.Value
+If ComboBox1 = "Alexis Phillips" And ComboBox2 = "Last Day" Then Range("F47").Value = TextBox4.Value
+If ComboBox1 = "Alexis Phillips" And ComboBox2 = "Last Day" Then Range("F48").Value = Application.WorksheetFunction.Average(score1, score2, score3, score4)
+
+
+
+If ComboBox1 = "David Robertson" And ComboBox2 = "Day 1" Then Range("B50").Value = TextBox1.Value
+If ComboBox1 = "David Robertson" And ComboBox2 = "Day 1" Then Range("B51").Value = TextBox2.Value
+If ComboBox1 = "David Robertson" And ComboBox2 = "Day 1" Then Range("B52").Value = TextBox3.Value
+If ComboBox1 = "David Robertson" And ComboBox2 = "Day 1" Then Range("B53").Value = TextBox4.Value
+If ComboBox1 = "David Robertson" And ComboBox2 = "Day 1" Then Range("B54").Value = Application.WorksheetFunction.Average(score1, score2, score3, score4)
+
+If ComboBox1 = "David Robertson" And ComboBox2 = "Day 20" Then Range("C50").Value = TextBox1.Value
+If ComboBox1 = "David Robertson" And ComboBox2 = "Day 20" Then Range("C51").Value = TextBox2.Value
+If ComboBox1 = "David Robertson" And ComboBox2 = "Day 20" Then Range("C52").Value = TextBox3.Value
+If ComboBox1 = "David Robertson" And ComboBox2 = "Day 20" Then Range("C53").Value = TextBox4.Value
+If ComboBox1 = "David Robertson" And ComboBox2 = "Day 20" Then Range("C54").Value = Application.WorksheetFunction.Average(score1, score2, score3, score4)
+
+If ComboBox1 = "David Robertson" And ComboBox2 = "Day 40" Then Range("D50").Value = TextBox1.Value
+If ComboBox1 = "David Robertson" And ComboBox2 = "Day 40" Then Range("D51").Value = TextBox2.Value
+If ComboBox1 = "David Robertson" And ComboBox2 = "Day 40" Then Range("D52").Value = TextBox3.Value
+If ComboBox1 = "David Robertson" And ComboBox2 = "Day 40" Then Range("D53").Value = TextBox4.Value
+If ComboBox1 = "David Robertson" And ComboBox2 = "Day 40" Then Range("D54").Value = Application.WorksheetFunction.Average(score1, score2, score3, score4)
+
+If ComboBox1 = "David Robertson" And ComboBox2 = "Day 60" Then Range("E50").Value = TextBox1.Value
+If ComboBox1 = "David Robertson" And ComboBox2 = "Day 60" Then Range("E51").Value = TextBox2.Value
+If ComboBox1 = "David Robertson" And ComboBox2 = "Day 60" Then Range("E52").Value = TextBox3.Value
+If ComboBox1 = "David Robertson" And ComboBox2 = "Day 60" Then Range("E53").Value = TextBox4.Value
+If ComboBox1 = "David Robertson" And ComboBox2 = "Day 60" Then Range("E54").Value = Application.WorksheetFunction.Average(score1, score2, score3, score4)
+
+If ComboBox1 = "David Robertson" And ComboBox2 = "Last Day" Then Range("F50").Value = TextBox1.Value
+If ComboBox1 = "David Robertson" And ComboBox2 = "Last Day" Then Range("F51").Value = TextBox2.Value
+If ComboBox1 = "David Robertson" And ComboBox2 = "Last Day" Then Range("F52").Value = TextBox3.Value
+If ComboBox1 = "David Robertson" And ComboBox2 = "Last Day" Then Range("F53").Value = TextBox4.Value
+If ComboBox1 = "David Robertson" And ComboBox2 = "Last Day" Then Range("F54").Value = Application.WorksheetFunction.Average(score1, score2, score3, score4)
+
+
+
+If ComboBox1 = "Sally Smith" And ComboBox2 = "Day 1" Then Range("B56").Value = TextBox1.Value
+If ComboBox1 = "Sally Smith" And ComboBox2 = "Day 1" Then Range("B57").Value = TextBox2.Value
+If ComboBox1 = "Sally Smith" And ComboBox2 = "Day 1" Then Range("B58").Value = TextBox3.Value
+If ComboBox1 = "Sally Smith" And ComboBox2 = "Day 1" Then Range("B59").Value = TextBox4.Value
+If ComboBox1 = "Sally Smith" And ComboBox2 = "Day 1" Then Range("B60").Value = Application.WorksheetFunction.Average(score1, score2, score3, score4)
+
+If ComboBox1 = "Sally Smith" And ComboBox2 = "Day 20" Then Range("C56").Value = TextBox1.Value
+If ComboBox1 = "Sally Smith" And ComboBox2 = "Day 20" Then Range("C57").Value = TextBox2.Value
+If ComboBox1 = "Sally Smith" And ComboBox2 = "Day 20" Then Range("C58").Value = TextBox3.Value
+If ComboBox1 = "Sally Smith" And ComboBox2 = "Day 20" Then Range("C59").Value = TextBox4.Value
+If ComboBox1 = "Sally Smith" And ComboBox2 = "Day 20" Then Range("C60").Value = Application.WorksheetFunction.Average(score1, score2, score3, score4)
+
+If ComboBox1 = "Sally Smith" And ComboBox2 = "Day 40" Then Range("D56").Value = TextBox1.Value
+If ComboBox1 = "Sally Smith" And ComboBox2 = "Day 40" Then Range("D57").Value = TextBox2.Value
+If ComboBox1 = "Sally Smith" And ComboBox2 = "Day 40" Then Range("D58").Value = TextBox3.Value
+If ComboBox1 = "Sally Smith" And ComboBox2 = "Day 40" Then Range("D59").Value = TextBox4.Value
+If ComboBox1 = "Sally Smith" And ComboBox2 = "Day 40" Then Range("D60").Value = Application.WorksheetFunction.Average(score1, score2, score3, score4)
+
+If ComboBox1 = "Sally Smith" And ComboBox2 = "Day 60" Then Range("E56").Value = TextBox1.Value
+If ComboBox1 = "Sally Smith" And ComboBox2 = "Day 60" Then Range("E57").Value = TextBox2.Value
+If ComboBox1 = "Sally Smith" And ComboBox2 = "Day 60" Then Range("E58").Value = TextBox3.Value
+If ComboBox1 = "Sally Smith" And ComboBox2 = "Day 60" Then Range("E59").Value = TextBox4.Value
+If ComboBox1 = "Sally Smith" And ComboBox2 = "Day 60" Then Range("E60").Value = Application.WorksheetFunction.Average(score1, score2, score3, score4)
+
+If ComboBox1 = "Sally Smith" And ComboBox2 = "Last Day" Then Range("F56").Value = TextBox1.Value
+If ComboBox1 = "Sally Smith" And ComboBox2 = "Last Day" Then Range("F57").Value = TextBox2.Value
+If ComboBox1 = "Sally Smith" And ComboBox2 = "Last Day" Then Range("F58").Value = TextBox3.Value
+If ComboBox1 = "Sally Smith" And ComboBox2 = "Last Day" Then Range("F59").Value = TextBox4.Value
+If ComboBox1 = "Sally Smith" And ComboBox2 = "Last Day" Then Range("F60").Value = Application.WorksheetFunction.Average(score1, score2, score3, score4)
